@@ -29,3 +29,12 @@ SORT
 Naveen, Bindra, 37, 44, Fission
 Ashok, Verma, 17, 17, Fission
 Naveen, Chandra, 14, 19, Fission
+
+
+Steps to run the code:
+prerequisite - 
+1. python 2.7 installed
+2. python added to path
+
+open a command prompt where code.py file is located and run the below command.
+#python code.py
