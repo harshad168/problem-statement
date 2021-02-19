@@ -1,6 +1,4 @@
-"""
-__author__ = "Janibasha"
-"""
+
 # ! /usr/bin/python
 
 import time, os, json
